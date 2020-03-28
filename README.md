@@ -2,7 +2,7 @@
 #  Dataset for Reyes-Puerta et al., Plos Comput Biol, 2015
 
 Paper: [Reyes-Puerta V, Kim S, Sun JJ, Imbrosci B, Kilb W & Luhmann HJ, Plos Comput Biol, 
-2015](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004121)
+2015](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004121) \[[PDF](Reyes-Puerta_PlosComputBiol_2015.pdf)\]
 
 The present dataset contains responses from neurons in the barrel cortex 
 of anesthetized rats to brief whisker deflections with specific stimulus 
